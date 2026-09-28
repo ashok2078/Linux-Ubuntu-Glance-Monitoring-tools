@@ -6,6 +6,8 @@ sudo apt install stress
 stress --cpu 4 --timeout 60
 
 EOF
+<img width="2880" height="1000" alt="image" src="https://github.com/user-attachments/assets/290374a5-c391-484a-b6aa-9575fb1aa90c" />
+
 
 ### Step 3: Create the `NOTES.md` File
 This file will hold troubleshooting notes, commands learned, and personal deployment logs. Run this command:
