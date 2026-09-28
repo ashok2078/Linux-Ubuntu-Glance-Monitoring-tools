@@ -1,4 +1,3 @@
-:
 # Linux & Ubuntu Glances Monitoring Tools
 
 
@@ -9,6 +8,7 @@ A comprehensive guide and setup helper for monitoring real-time system performan
 - Live tracking of Network bandwidth, Disk I/O, and File Systems[cite: 3].
 - Support for both **Terminal UI (TUI)** and **Web Browser UI** modes.
 - Instructions for handling Python package management (`pipx`) and web server bindings.
+<img width="2840" height="1492" alt="image" src="https://github.com/user-attachments/assets/eb5ad181-8334-4a44-b3b4-ef9cb6364458" />
 
 ## Installation & Setup
 
